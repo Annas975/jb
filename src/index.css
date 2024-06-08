@@ -54,7 +54,7 @@ h3 {
 }
 
 .banner {
-  background-image: url('/src/assets/banner.jpg');
+  background-image: url('./src/assets/banner.jpg');
   background-size: cover;
   background-position: top;
 }
