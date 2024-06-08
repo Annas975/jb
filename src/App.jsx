@@ -6,7 +6,7 @@ const AppRoutes = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<JBProvider><MainLayout /></JBProvider>} />
+        <Route path='./' element={<JBProvider><MainLayout /></JBProvider>} />
       </Routes>
     </BrowserRouter>
   );

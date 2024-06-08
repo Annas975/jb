@@ -23,10 +23,10 @@ const AddAkun = () => {
     };
 
     const predefinedGames = [
-        { name: "Genshin Impact", image: "./src/assets/genshin.png" },
-        { name: "Mobile Legends", image: "./src/assets/mobileLegends.png" },
-        { name: "PUBG Mobile", image: "./src/assets/PubgMobile.png" },
-        { name: "Free Fire", image: "./src/assets/ff.png" },
+        { name: "Genshin Impact", image: "../src/assets/genshin.png" },
+        { name: "Mobile Legends", image: "../src/assets/mobileLegends.png" },
+        { name: "PUBG Mobile", image: "../src/assets/PubgMobile.png" },
+        { name: "Free Fire", image: "../src/assets/ff.png" },
     ];
 
     const loginOptions = ["Game", "Facebook", "Google", "iOS", "Tweeter", "VK", "Tiktok"];
